@@ -1,10 +1,10 @@
 <canvas id="custom" class="canvas" data-fragment-url="src/moon/moon.frag" data-textures="src/moon/moon.jpg" width="350px" height="350px"></canvas>
-
+<div dir="rtl">
 # کتابی در رابطه با شِیدِرها
 *توسط [Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/) و [Jen Lowe](http://jenlowe.net/)*
 
-This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
 این کتاب راهنمایی قدم به قدم در رابطه با دنیای پیجیده ی فرگمنت شیدرها می باشد.
+</div>
 <div class="header">
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B5FSVSHGEATCG" style="float: right;"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt=""></a>
 </div>
